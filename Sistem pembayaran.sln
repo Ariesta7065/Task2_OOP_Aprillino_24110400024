@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sistem pembayaran", "Sistem pembayaran\Sistem pembayaran.vcxproj", "{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Debug|x64.ActiveCfg = Debug|x64
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Debug|x64.Build.0 = Debug|x64
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Debug|x86.Build.0 = Debug|Win32
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Release|x64.ActiveCfg = Release|x64
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Release|x64.Build.0 = Release|x64
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Release|x86.ActiveCfg = Release|Win32
+		{E533CDED-E46D-4B23-8F73-EBE372A8CCA8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F2B4F53-FD68-4339-92FA-70373A8793D3}
+	EndGlobalSection
+EndGlobal
